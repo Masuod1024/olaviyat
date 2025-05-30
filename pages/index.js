@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import TaskPrioritizer from '../src/TaskPrioritizer'
+import TaskPrioritizer from './src/TaskPrioritizer'
 
 export default function Home() {
   return (
